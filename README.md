@@ -1,7 +1,7 @@
 # Module Project - Algorithms
 
 ## Sprint: Algorithms
-
+.
 ## Modules: A First-Pass Solution and Writing Better Solutions
 
 *Note: this module project repository is for Module 3 (A First-Pass Solution) and Module 4 (Writing Better Solutions) of the Algorithms Sprint.*
